@@ -1,0 +1,41 @@
+.fundo {
+   background: url(imagens/background.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.logo{
+    margin-left: 100px;
+}
+
+h1{
+    text-transform: uppercase;
+    color: #44DC2C;
+    font-family: Conv_RazerF5Light,Arial;
+    text-align: center;
+}
+p{
+    color: white;
+}
+.slogan{
+	text-transform: uppercase;
+    color: #44D62C;
+    text-align: center;
+    font-family: Conv_RazerF5Light,Arial;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+    margin-top: 100px;
+	text-transform: uppercase;
+    color: #44DC2C;
+    font-family: Conv_RazerF5Light,Arial;
+}

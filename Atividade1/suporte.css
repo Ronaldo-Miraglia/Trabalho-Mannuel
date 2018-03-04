@@ -1,0 +1,90 @@
+.fundo {
+   background: url(imagens/background.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.logo{
+    margin-left: 100px;
+}
+
+h1{
+    text-transform: uppercase;
+    color: #44DC2C;
+    font-family: Conv_RazerF5Light,Arial;
+    text-align: center;
+}
+p{
+    color: white;
+}
+.slogan{
+	text-transform: uppercase;
+    color: #44D62C;
+    text-align: center;
+    font-family: Conv_RazerF5Light,Arial;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+    margin-top: 100px;
+	text-transform: uppercase;
+    color: #44DC2C;
+    font-family: Conv_RazerF5Light,Arial;
+}
+    section#main-content div.contato .container ul li a .img-container img {
+    width: 100%;
+}
+     section#main-content div.contato .container ul li .button-on-medium {
+        color: #ffffff ;
+    }
+    .button-on-medium {
+        display: inline-block;
+        font-size: 14px;
+        border: 1px solid #0CB90C;
+        border-left: 2px solid #00FF00; 
+        background: none #00a000;
+        color: #ffffff !important;
+        text-transform: uppercase;
+        padding: .3rem .5rem;
+    }
+    .button-off-medium {
+        display: inline-block;
+        border: 1px solid #2d2d2d;
+        font-size: 14px;
+        border-left: 2px solid #2d2d2d; 
+        background: none #2d2d2d;
+        color: #555555;
+        cursor: default;
+        text-transform: uppercase;
+        padding: .3rem .5rem;
+    }
+    .button-off-medium > span {
+        cursor: default;
+    }
+    .button-on-medium:hover, .button-on-medium > span {
+        color: #ffffff !important;
+    }
+    .button-off-medium:hover {
+        color: #555555;
+    }
+    .full-width {
+        width: 100% !important;
+    }
+    .button-on-medium {
+    display: inline-block;
+    font-size: 14px;
+    border: 1px solid #0CB90C;
+    border-left: 2px solid #00FF00;
+    background: none #00a000;
+    color: #ffffff !important;
+    text-transform: uppercase;
+    padding: .3rem .5rem;
+}

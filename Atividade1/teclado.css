@@ -1,0 +1,296 @@
+.fundo {
+   background: url(imagens/fundo.png) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.logo{
+    margin-left: 100px;
+}
+
+h1{
+    text-transform: uppercase;
+    color: #44DC2C;
+    font-family: Conv_RazerF5Light,Arial;
+    text-align: center;
+}
+p{
+    color: white;
+}
+.slogan{
+	text-transform: uppercase;
+    color: #44D62C;
+    text-align: center;
+    font-family: Conv_RazerF5Light,Arial;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+    margin-top: 100px;
+	text-transform: uppercase;
+    color: #44DC2C;
+    font-family: Conv_RazerF5Light,Arial;
+}
+a img {
+    border: none;
+}
+a, abbr, acronym, address, article, aside, blockquote, body, caption, code, dd, del, dfn, dialog, div, dl, dt, em, fieldset, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, iframe, img, label, legend, li, nav, object, ol, p, pre, q, section, span, table, tbody, td, tfoot, th, thead, tr, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+img {
+    max-width: 100%;
+}
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+*, .cont-1 .content, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+a, abbr, acronym, address, article, aside, blockquote, body, caption, code, dd, del, dfn, dialog, div, dl, dt, em, fieldset, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, iframe, img, label, legend, li, nav, object, ol, p, pre, q, section, span, table, tbody, td, tfoot, th, thead, tr, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+a, body {
+    color: #888;
+}
+a, abbr, acronym, address, article, aside, blockquote, body, caption, code, dd, del, dfn, dialog, div, dl, dt, em, fieldset, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, iframe, img, label, legend, li, nav, object, ol, p, pre, q, section, span, table, tbody, td, tfoot, th, thead, tr, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+a, abbr, acronym, address, article, aside, blockquote, body, caption, code, dd, del, dfn, dialog, div, dl, dt, em, fieldset, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, iframe, img, label, legend, li, nav, object, ol, p, pre, q, section, span, table, tbody, td, tfoot, th, thead, tr, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+a, abbr, acronym, address, article, aside, blockquote, body, caption, code, dd, del, dfn, dialog, div, dl, dt, em, fieldset, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, iframe, img, label, legend, li, nav, object, ol, p, pre, q, section, span, table, tbody, td, tfoot, th, thead, tr, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+.categorised-content .categorised-content-listing .categorised-content-listing-item .categorised-content-listing-item-image img.logo-right {
+    width: initial;
+    position: absolute;
+    bottom: 1.25rem;
+    padding: 0 1.875rem;
+    right: 0;
+}
+.categorised-content .categorised-content-listing .categorised-content-listing-item .categorised-content-listing-item-info {
+    background: #111;
+    height: 145px;
+    position: relative;
+    padding: .625rem 1.125rem;
+    border-bottom: 1px solid #44D62C;
+}
+.categorised-content .categorised-content-listing .categorised-content-listing-item .categorised-content-listing-item-info h2 {
+    padding-top: .212rem;
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+    text-transform: none;
+    color: #fff;
+}
+.stdHolder h2 {
+    font-family: Conv_RazerF5Thin,Arial;
+}
+#hero .tagline h1, .introHeader h2, .stdHolder h2, .tagline h1, footer .slogan {
+    text-transform: uppercase;
+    color: #44D62C;
+}
+.text-white {
+    color: #fff!important;
+}
+h2 {
+    font-size: 1.75rem;
+    line-height: 1.875rem;
+}
+h1, h2, h3, h4, h5 {
+    font-family: Conv_RazerF5Thin,Arial;
+}
+.categorised-content .categorised-content-listing .categorised-content-listing-item .categorised-content-listing-item-image {
+    height: 300px;
+    background: #000;
+    position: relative;
+}
+.categorised-content .categorised-content-listing .categorised-content-listing-item {
+    float: left;
+    width: 313px;
+    height: 445px;
+    margin: .9375rem 1.25rem 0 0;
+}
+.categorised-content .categorised-content-latest .content {
+    max-width: 980px;
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+}
+.categorised-content .categorised-content-latest .content h2 {
+    font-family: Conv_RazerF5Light,Arial;
+    font-size: 1.75rem;
+    text-transform: none;
+    padding: 4.0625rem 0 0;
+    width: 100%;
+    line-height: 1.75rem;
+    color: #fff;
+}
+.categorised-content .categorised-content-latest .content .regular-text {
+    width: 100%;
+    font-size: 1.125rem;
+    line-height: 1.125rem;
+    padding: .4375rem 0 1.25rem;
+    font-family: Roboto,Arial;
+    font-weight: 300;
+    font-style: normal;
+}
+.categorised-content .categorised-content-latest .content .cta {
+    width: 100%;
+}
+.categorised-content .column-2 .categorised-content-latest .logo-left {
+    padding-left: .625rem;
+}
+.categorised-content .categorised-content-latest .content .logo-left {
+    position: absolute;
+    bottom: 1.875rem;
+    left: 0;
+}
+.categorised-content-latest .cta span {
+    color: #44D62C;
+}
+element.style {
+    background: url(https://d1urewwzb2qwii.cloudfront.net/sys-master/root/hf1/h14/8871059357726/orbweaver-2col.jpg) center bottom / cover no-repeat;
+}
+#hero .tagline h1, .tagline h1 {
+    font-weight: 200;
+    text-align: center;
+}
+#hero .tagline h1, .introHeader h2, .stdHolder h2, .tagline h1, footer .slogan {
+    text-transform: uppercase;
+    color: #44D62C;
+}
+h1 {
+    font-size: 2.25rem;
+    line-height: 2.25rem;
+    letter-spacing: .0625rem;
+}
+.regular-text-large {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    color: #888;
+}
+.textImageInGrid .textContent {
+    max-width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+}
+.container-width-seo_gaming_keyboards_2017_tagline {
+    max-width: 750px!important;
+}
+.col-md-12 {
+    width: 100%;
+}
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: left;
+}
+.col-sm-12 {
+    width: 100%;
+}
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+    float: left;
+}
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 0;
+    padding-left: 0;
+}
+.col-xs-12 {
+    width: 100%;
+}
+.categorised-content .categorised-content-latest .content {
+    max-width: 980px;
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+}
+.categorised-content .categorised-content-latest .content h2 {
+    font-family: Conv_RazerF5Light,Arial;
+    font-size: 1.75rem;
+    text-transform: none;
+    padding: 4.0625rem 0 0;
+    width: 100%;
+    line-height: 1.75rem;
+    color: #fff;
+}
+.stdHolder h2 {
+    font-family: Conv_RazerF5Thin,Arial;
+}
+#hero .tagline h1, .introHeader h2, .stdHolder h2, .tagline h1, footer .slogan {
+    text-transform: uppercase;
+    color: #44D62C;
+}
+.h1style, .secondary, .stdHolder h2, .text-uppercase {
+    letter-spacing: .0625rem;
+}
+.categorised-content .categorised-content-latest .content .logo-left {
+    position: absolute;
+    bottom: 1.875rem;
+    left: 0;
+}
